@@ -1,1 +1,1 @@
-![HTML test](https://httpbin.ir)
+![HTML test](https://classban.ir)
